@@ -1,0 +1,6 @@
+category,best_lag_months,elasticity,correlation
+Industrial chemicals,3,0.43,0.72
+Packaging,3,0.37,0.63
+Ocean freight,3,0.34,0.92
+Road freight,3,0.19,0.92
+Facility services,0,-0.03,-0.2
